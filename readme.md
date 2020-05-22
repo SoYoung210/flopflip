@@ -4,7 +4,7 @@
 
 <h2 align="center">🎚 flopflip - Feature Toggling 🚦</h2>
 <p align="center">
-  <b>Toggle (flip or flop) features being stored in Redux or in a broadcasting system (through the context) via a set of React components or HoCs.</b>
+  <b>Toggle (flop or flip) features being stored in Redux or in a broadcasting system (through the context) via a set of React components or HoCs.</b>
 </p>
 
 <p align="center">
